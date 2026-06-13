@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section id="sobre" className="section">
+    <section id="sobre" className="section reveal">
       <div className="container about-grid">
         <div className="about-text">
           <p className="section-tag">Sobre a Orvenz</p>

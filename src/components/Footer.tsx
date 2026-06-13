@@ -4,7 +4,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="site-footer">
+    <footer className="site-footer reveal">
       <div className="container footer-inner">
         <div className="footer-brand">
           <span className="logo-text">{site.name.toLowerCase()}</span>

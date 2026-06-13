@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 
 export default function Projects() {
   return (
-    <section id="projetos" className="section">
+    <section id="projetos" className="section reveal">
       <div className="container">
         <p className="section-tag">Nossos projetos</p>
         <h2>Além de sistemas sob encomenda, criamos produtos próprios</h2>

@@ -2,7 +2,7 @@ import { site } from "@/data/site";
 
 export default function Region() {
   return (
-    <section id="regiao" className="section section-alt">
+    <section id="regiao" className="section section-alt reveal">
       <div className="container">
         <p className="section-tag">Onde atuamos</p>
         <h2>Atendimento presencial na região, suporte sempre por perto</h2>

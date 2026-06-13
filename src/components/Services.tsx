@@ -33,7 +33,7 @@ const SERVICES = [
 
 export default function Services() {
   return (
-    <section id="servicos" className="section section-alt">
+    <section id="servicos" className="section section-alt reveal">
       <div className="container">
         <p className="section-tag">O que fazemos</p>
         <h2>Soluções sob medida, do diagnóstico ao suporte</h2>

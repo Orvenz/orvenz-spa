@@ -2,7 +2,7 @@ import { site, whatsappLink, defaultWhatsappMessage } from "@/data/site";
 
 export default function Contact() {
   return (
-    <section id="contato" className="section section-alt">
+    <section id="contato" className="section section-alt reveal">
       <div className="container contact-grid">
         <div>
           <p className="section-tag">Vamos conversar?</p>
