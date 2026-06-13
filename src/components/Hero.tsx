@@ -5,12 +5,15 @@ export default function Hero() {
     <section className="hero">
       <div className="container hero-grid">
         <div className="hero-content">
-          <p className="eyebrow">Consultoria de software — {site.baseCity} e região</p>
+          <p className="eyebrow">
+            Consultoria de software — {site.baseCity} e região
+          </p>
           <h1>Tecnologia com cara da nossa região</h1>
           <p className="hero-lead">
-            A Orvenz é uma consultoria de software: criamos sistemas e aplicativos sob medida para
-            resolver problemas do dia a dia de pequenas e médias empresas — sem a distância, a
-            burocracia ou as mensalidades inúteis dos softwares genéricos de fora.
+            A Orvenz é uma consultoria de software: criamos sistemas e
+            aplicativos sob medida para resolver problemas do dia a dia de
+            pequenas e médias empresas — sem a distância, a burocracia ou as
+            grandes mensalidades dos softwares genéricos de fora.
           </p>
           <div className="hero-actions">
             <a
